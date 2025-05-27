@@ -52,7 +52,7 @@ const Contact = () => {
                 <input type="email"  placeholder='Enter your email' name='email'/>
                 <label htmlFor="">Write your message here</label>
                 <textarea name="message" rows={'8'} placeholder='Enter your message'></textarea>
-                <button type='sumit' className='contact-submit'>Sumit now</button>
+                <button type='sumit' className='contact-submit'>Submit now</button>
             </form>
         </div>
     </div>

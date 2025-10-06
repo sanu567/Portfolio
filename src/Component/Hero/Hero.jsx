@@ -4,7 +4,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 const Hero = () => {
   const openResume = () => {
-    window.open("/my cv3.pdf", "_blank");
+    window.open("/update CV.pdf", "_blank");
   };
 
   return (
